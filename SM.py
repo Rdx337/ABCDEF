@@ -377,7 +377,7 @@ def menu():
         print('\033[0;97m=================')
         animation(' [×] DONE EXIT ')
         exit()        
-else:
+    else:
         print('\033[0;97m=================')
         animation(' [×] SELECT CORRECTLY ')
         back()
@@ -402,8 +402,8 @@ def result():
             print('\x1b[38;5;50m==================')
             animation(' \033[97;1m[\x1b[38;5;50m•\033[97;1m] NO CP RESULTS FOUND ')
             time.sleep(2)
-            back()            
-        else:
+            back()          
+else:
             cih = 0
             lol = {}
             for isi in vin:
@@ -415,8 +415,8 @@ def result():
                     lol.update({str(cih):str(isi)})
                     lol.update({nom:str(isi)})
                     print('\x1b[38;5;50m==================')
-                    print(' '+nom+'. '+isi+'\033[31m '+str(len(hem))+' \033[0m CP '+x)
-                else:
+                    print(' '+nom+'. '+isi+'\033[31m '+str(len(hem))+' \033[0m CP '+x
+else:
                     lol.update({str(cih):str(isi)})
                     print(' '+str(cih)+'. '+isi+'\033[31m '+str(len(hem))+' \033[0m CP '+x)
             print('\x1b[38;5;50m==================')
