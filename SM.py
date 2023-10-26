@@ -294,7 +294,7 @@ while attemps < 12345677901:
 if username == 'SABBIR' and password == '1122':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
-    else:
+else:
         print(' Incorrect Pass Please Trying ')
         attemps += 1
         continue
