@@ -20,8 +20,8 @@ print('GITHUB : RDX337')
 print('ADMIN: SABBIR ')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 #---------------menu--------------------#
 def main():
-	print('[1]FILE CLONING')
-	pint('[2]Ext')
+	print('[A]FILE CLONING')
+	print('[B]Ext')
 	option=inport('[?] CHOICE MENU :')
-
+     
 #--------------end------------------------#
