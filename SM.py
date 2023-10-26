@@ -1,4 +1,4 @@
-#SABBIR BHAI 
+ #SABBIR BHAI 
 #MY WASTAP +8801840762780
 #-----------------import-----------------#
 import os
@@ -23,8 +23,7 @@ M::::::M               M::::::M  d:::::::::ddd::::d     S:::::::::::::::SS  a:::
 MMMMMMMM               MMMMMMMM   ddddddddd   ddddd      SSSSSSSSSSSSSSS     aaaaaaaaaa  aaaabbbbbbbbbbbbbbbb   bbbbbbbbbbbbbbbb   iiiiiiiirrrrrrr                  SSSSSSSSSSSSSSS   rrrrrrr ''')
 #----------------clear-------------------#
 def clear():
-     os.system('clear`)
-     
+	os. system('clear')
 print(logo)
 pint(42*'-')
 print(`FB ID : MD SABBIR SR
