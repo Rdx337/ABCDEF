@@ -15,11 +15,9 @@ logo=('''
 def clear():
 	os. system('clear')
 print(logo)
-print(42*'-')
 print('FB ID : MD SABBIR SR')
 print('GITHUB : RDX337')
 print('ADMIN: SABBIR ')    
-print(42*'-'
 #----------line--------------------#
   det main():
 print(42*'-'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
@@ -30,3 +28,4 @@ def main():
 	option=inport('[?] CHOICE MENU :')
 
 #--------------end------------------------#
+
