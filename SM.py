@@ -4,24 +4,6 @@
 REVERSE DONE BY MD SABBIR
 
 """
-
-#-----------------[ SR-SABBIR  ]-------------------#
- 
-import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from rich.table import Table as me
-from rich.console import Console as sol
-from bs4 import BeautifulSoup as sop
-from concurrent.futures import ThreadPoolExecutor as tred
-from rich.console import Group as gp
-from rich.panel import Panel as nel
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich import pretty
-from rich.text import Text as tekz
-from time import localtime as lt
-pretty.install()
-CON=sol()
  #------------------[ SR-SABBIR ]-------------------#
 import os, platform, time, sys
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
