@@ -258,7 +258,7 @@ def meyexudi():
     else:
       print(meyermarexudi)
      # print(" \033[32;1m[+] Your Kay : "+id)
-print(' \x1b[38;5;208m╔══[𝟷] FREE USER NOT CAME INBOX')
+      print(' \x1b[38;5;208m╔══[𝟷] FREE USER NOT CAME INBOX')
       print(' \x1b[1;97m║══[𝟸] FREE-FIRE-TIK-TOK- ID CLONING')
       print(' \x1b[1;91m║══[𝟸] ONLY ACTIVE ID CLONE')
       print(' \x1b[1;92m║══[𝟸] UNACTIVE ID NOT ALLOW')
@@ -268,7 +268,7 @@ print(' \x1b[38;5;208m╔══[𝟷] FREE USER NOT CAME INBOX')
       print(' \x1b[38;5;50m║══[𝟸] 30 DAY 400 TAKA ')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801935091078?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801840762780?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
