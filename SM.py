@@ -1,4 +1,4 @@
- #SABBIR BHAI 
+#SABBIR BHAI 
 #MY WASTAP +8801840762780
 #-----------------import-----------------#
 import os
@@ -26,9 +26,9 @@ def clear():
 	os. system('clear')
 print(logo)
 pint(42*'-')
-print(`FB ID : MD SABBIR SR
-print(`GITHUB : RDX337
-print(` ADMIN: SABBIR                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+print('FB ID : MD SABBIR SR
+print('GITHUB : RDX337
+print('ADMIN: SABBIR                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 #---------------menu--------------------#
 
 
