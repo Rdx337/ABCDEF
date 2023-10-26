@@ -1,4 +1,4 @@
-#SABBIR BHAI 
+ #SABBIR BHAI 
 #MY WASTAP +8801840762780
 #-----------------import-----------------#
 import os
@@ -15,10 +15,18 @@ logo=('''
 def clear():
 	os. system('clear')
 print(logo)
+print(42*'-')
 print('FB ID : MD SABBIR SR')
 print('GITHUB : RDX337')
-print('ADMIN: SABBIR ')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+print('ADMIN: SABBIR ')    
+print(42*'-'
+#----------line--------------------#
+  det main():
+print(42*'-'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 #---------------menu--------------------#
-
+def main():
+	print('[1]FILE CLONING')
+	pint('[2]Ext')
+	option=inport(`[?] CHOICE MENU :')
 
 #--------------end------------------------#
