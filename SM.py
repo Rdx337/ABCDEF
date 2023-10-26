@@ -1,4 +1,4 @@
- #SABBIR BHAI 
+#SABBIR BHAI 
 #MY WASTAP +8801840762780
 #-----------------import-----------------#
 import os
@@ -27,6 +27,6 @@ print(42*'-'
 def main():
 	print('[1]FILE CLONING')
 	pint('[2]Ext')
-	option=inport(`[?] CHOICE MENU :')
+	option=inport('[?] CHOICE MENU :')
 
 #--------------end------------------------#
