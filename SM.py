@@ -402,8 +402,9 @@ def result():
             print('\x1b[38;5;50m==================')
             animation(' \033[97;1m[\x1b[38;5;50m•\033[97;1m] NO CP RESULTS FOUND ')
             time.sleep(2)
-            back()          
-	else:
+            back()       
+		
+ else:
             cih = 0
             lol = {}
             for isi in vin:
