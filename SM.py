@@ -1,6 +1,7 @@
 #SABBIR BHAI 
 #MY WASTAP +8801840762780
 #-----------------import-----------------#
+import os
 #----------------logo----------------------#
 logo=('''
                                                                                                                                                                                                                                                   dddddddd                                         bbbbbbbb           bbbbbbbb                                                                                  
@@ -21,8 +22,7 @@ M::::::M               M::::::M d:::::::::::::::::d     S::::::SSSSSS:::::Sa::::
 M::::::M               M::::::M  d:::::::::ddd::::d     S:::::::::::::::SS  a::::::::::aa:::ab:::::::::::::::b  b:::::::::::::::b  i::::::ir:::::r                 S:::::::::::::::SS r:::::r            
 MMMMMMMM               MMMMMMMM   ddddddddd   ddddd      SSSSSSSSSSSSSSS     aaaaaaaaaa  aaaabbbbbbbbbbbbbbbb   bbbbbbbbbbbbbbbb   iiiiiiiirrrrrrr                  SSSSSSSSSSSSSSS   rrrrrrr ''')
 #----------------clear-------------------#
-def clear ():
-	
+def clear():
      os.system('clear`)
      
 print(logo)
